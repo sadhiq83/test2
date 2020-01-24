@@ -2,3 +2,5 @@ simple test for github uploading !!!
 updated the comments
 
 This entry is added in sadm-forked/test2
+
+This is the test file added in the cloned local repository. !!!!!
